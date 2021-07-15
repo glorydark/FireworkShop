@@ -1,5 +1,6 @@
 # FireworkShop
-## Click here to see more: https://www.minebbs.com/resources/fireworkshop.2485/?btwaf=71634949
+## Click here to see more: 
+https://www.minebbs.com/resources/fireworkshop.2485/?btwaf=71634949
 
 ## Command
 /fs - Open the menu
