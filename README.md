@@ -10,6 +10,7 @@ https://www.minebbs.com/resources/fireworkshop.2485/?btwaf=71634949
 ## Config
 #### Supported firework color and explosion type:
 Color: RED、BLACK、BLUE、BROWN、CYAN、GREEN、LIGHT_BLUE、LIGHT_GRAY、LIME、MAGENTA、ORANGE、PINK、PURPLE、WHITE、YELLOW
+
 Explosion Type: BURST、LARGE_BALL、SMALL_BALL、STAR_SHAPED、CREEPER_SHAPED
 
 ```
