@@ -1,17 +1,14 @@
-# FireworkShop - 烟花商店​
+# FireworkShop
+## Click here to see more: https://www.minebbs.com/resources/fireworkshop.2485/?btwaf=71634949
 
-## 介绍
- 本款插件是根据插件交流群中的【魔力】首次提出的想法编写的，其中为本插件出谋划策的还有【果先生】，本插件为各位服主提供烟花商店的功能，可自定义模板，让服主也能自定义烟花的燃放效果，从而实现美丽的烟花秀。
- 特别鸣谢:魔力：本插件想法的提出者、果先生：为功能完善提供参考建议
+## Command
+/fs - Open the menu
+/fsaccept - Accept the invitation
 
-## 指令
-/fs 打开菜单
-/fsaccept 接受烟花邀请
-
-## 配置教程​
-本插件的配置文件需要规范格式，默认会为各位服主生成一个默认模板，可按照其进行修改！目前可支持的烟花类型和颜色如下:
-颜色: RED、BLACK、BLUE、BROWN、CYAN、GREEN、LIGHT_BLUE、LIGHT_GRAY、LIME、MAGENTA、ORANGE、PINK、PURPLE、WHITE、YELLOW
-烟花爆炸类型: BURST、LARGE_BALL、SMALL_BALL、STAR_SHAPED、CREEPER_SHAPED
+## Config
+#### Supported firework color and explosion type:
+Color: RED、BLACK、BLUE、BROWN、CYAN、GREEN、LIGHT_BLUE、LIGHT_GRAY、LIME、MAGENTA、ORANGE、PINK、PURPLE、WHITE、YELLOW
+Explosion Type: BURST、LARGE_BALL、SMALL_BALL、STAR_SHAPED、CREEPER_SHAPED
 
 ```
 shops.yml：
@@ -134,4 +131,3 @@ MaxTicks: 50
 
 ## 截图&视频​
 [![Wn85VK.md.png](https://z3.ax1x.com/2021/07/15/Wn85VK.md.png)](https://imgtu.com/i/Wn85VK)
-Click here to see more: https://www.minebbs.com/resources/fireworkshop.2485/?btwaf=71634949
